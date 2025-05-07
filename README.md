@@ -15,7 +15,8 @@ The dataset includes the following key columns:
 - Consumer disputed?
 - Resolution time (in days): Time taken to resolve
 - Year and Quarter
- ![Screenshot 2025-05-07 234502](https://github.com/user-attachments/assets/be87d4c1-bba9-45c5-b177-897d2db43fae)
+![Screenshot 2025-05-08 003658](https://github.com/user-attachments/assets/789afdae-da32-43b3-9d15-abf8a78b8bb9)
+
 
 ## Data Cleaning & Preparation
 
@@ -36,13 +37,17 @@ Steps taken:
 - Most common products with complaints
 - Frequent issues reported
 - Distribution by submission channel
+![Screenshot 2025-05-08 001010](https://github.com/user-attachments/assets/d144eae8-6403-4525-86e9-477f435d4aee)
+
 ### Company Performance
 - Companies with highest complaint volumes
 - Timely response rates per company
 - Average resolution time by company
+
 ### Geographic Analysis
 - States with highest complaint volumes
 - State-wise resolution efficiency
+  
 ### Dispute and Timeliness
 - Percentage of complaints marked as "Consumer disputed"
 - Correlation between disputed complaints and resolution time
