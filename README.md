@@ -15,7 +15,7 @@ The dataset includes the following key columns:
 - Consumer disputed?
 - Resolution time (in days): Time taken to resolve
 - Year and Quarter
-- ![Screenshot 2025-05-07 234502](https://github.com/user-attachments/assets/be87d4c1-bba9-45c5-b177-897d2db43fae)
+ ![Screenshot 2025-05-07 234502](https://github.com/user-attachments/assets/be87d4c1-bba9-45c5-b177-897d2db43fae)
 
 ## Data Cleaning & Preparation
 
@@ -30,7 +30,7 @@ Steps taken:
 - Total number of complaints
 - Complaints per year and quarter
 - Trend analysis over time
-- ![Screenshot 2025-05-07 223449](https://github.com/user-attachments/assets/cf06a8ad-7ce2-483b-a59f-4d01389cab5b)
+![Screenshot 2025-05-07 223449](https://github.com/user-attachments/assets/cf06a8ad-7ce2-483b-a59f-4d01389cab5b)
 
 ### Top Complaint Categories
 - Most common products with complaints
