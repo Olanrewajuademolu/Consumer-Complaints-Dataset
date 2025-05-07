@@ -27,7 +27,7 @@ Steps taken:
 - Total number of complaints
 - Complaints per year and quarter
 - Trend analysis over time
-https://github.com/user-attachments/assets/6d6b1fdc-8cf8-48d0-a0e2-3d56aaa5daff
+
 
 ### Top Complaint Categories
 - Most common products with complaints
@@ -50,7 +50,7 @@ https://github.com/user-attachments/assets/6d6b1fdc-8cf8-48d0-a0e2-3d56aaa5daff
 - Regional patterns in complaint types and volume
 
 ## Dashboard Review
-![Screenshot 2025-05-07 165510](https://github.com/user-attachments/assets/4d92dfcc-3af2-44c8-8e5e-36bd4f759051)
+# ![Screenshot 2025-05-07 165510](https://github.com/user-attachments/assets/4d92dfcc-3af2-44c8-8e5e-36bd4f759051)
 
 ## Recommendations
 - Improve response times in underperforming companies
