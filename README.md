@@ -4,24 +4,14 @@ This project analyzes consumer complaint data submitted to various financial ins
 ## Dataset Overview
 The dataset includes the following key columns:
 
-ID: Unique complaint identifier
-
-Company: Financial institution involved
-
-Product: Type of financial product (e.g., mortgage, credit reporting)
-
-Issue: Specific complaint issue
-
-State and State name: Location of the consumer
-
-Submitted via: Method of complaint submission (web, phone, mail, etc.)
-
-Date received / resolved
-
-Timely response?: Whether the company responded promptly
-
-Consumer disputed?
-
-Resolution time (in days): Time taken to resolve
-
-Year and Quarter
+- ID: Unique complaint identifier
+- Company: Financial institution involved
+- Product: Type of financial product (e.g., mortgage, credit reporting)
+- Issue: Specific complaint issue
+- State and State name: Location of the consumer
+- Submitted via: Method of complaint submission (web, phone, mail, etc.)
+- Date received / resolved
+- Timely response?: Whether the company responded promptly
+- Consumer disputed?
+- Resolution time (in days): Time taken to resolve
+- Year and Quarter
