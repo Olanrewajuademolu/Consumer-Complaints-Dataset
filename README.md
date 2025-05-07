@@ -24,12 +24,13 @@ Steps taken:
 - Cleaned missing values, especially in fields like Resolution time
 - Normalized categorical entries (e.g., 'Yes'/'No')
 
+
 ## Exploratory Data Analysis (EDA)
 ### Complaint Volume
 - Total number of complaints
 - Complaints per year and quarter
 - Trend analysis over time
-
+- ![Screenshot 2025-05-07 223449](https://github.com/user-attachments/assets/cf06a8ad-7ce2-483b-a59f-4d01389cab5b)
 
 ### Top Complaint Categories
 - Most common products with complaints
