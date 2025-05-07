@@ -15,8 +15,10 @@ The dataset includes the following key columns:
 - Consumer disputed?
 - Resolution time (in days): Time taken to resolve
 - Year and Quarter
+- ![Screenshot 2025-05-07 234502](https://github.com/user-attachments/assets/be87d4c1-bba9-45c5-b177-897d2db43fae)
 
 ## Data Cleaning & Preparation
+
 Steps taken:
 - Parsed date fields (Date received, Date resolved) to datetime format
 - Cleaned missing values, especially in fields like Resolution time
