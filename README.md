@@ -48,6 +48,7 @@ Steps taken:
 - Regional patterns in complaint types and volume
 
 ## Dashboard Review
+![Screenshot 2025-05-07 165510](https://github.com/user-attachments/assets/4d92dfcc-3af2-44c8-8e5e-36bd4f759051)
 
 ## Recommendations
 - Improve response times in underperforming companies
