@@ -22,6 +22,12 @@ Steps taken:
 - Cleaned missing values, especially in fields like Resolution time
 - Normalized categorical entries (e.g., 'Yes'/'No')
 
+## Exploratory Data Analysis (EDA)
+### Complaint Volume
+- Total number of complaints
+- Complaints per year and quarter
+- Trend analysis over time
+
 ## Recommendations
 - Improve response times in underperforming companies
 - Focus on most disputed product areas for quality review
