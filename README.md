@@ -21,3 +21,11 @@ Steps taken:
 - Parsed date fields (Date received, Date resolved) to datetime format
 - Cleaned missing values, especially in fields like Resolution time
 - Normalized categorical entries (e.g., 'Yes'/'No')
+
+## Recommendations
+- Improve response times in underperforming companies
+- Focus on most disputed product areas for quality review
+- Encourage user-friendly digital complaint submission platforms
+
+## Conclusion
+  The complaint data provides a rich source for performance benchmarking, customer sentiment tracking, and quality improvement in the financial services industry.
