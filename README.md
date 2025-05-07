@@ -27,7 +27,7 @@ Steps taken:
 - Total number of complaints
 - Complaints per year and quarter
 - Trend analysis over time
-![Screenshot 2025-05-07 223449](https://github.com/user-attachments/assets/6d6b1fdc-8cf8-48d0-a0e2-3d56aaa5daff)
+https://github.com/user-attachments/assets/6d6b1fdc-8cf8-48d0-a0e2-3d56aaa5daff
 
 ### Top Complaint Categories
 - Most common products with complaints
