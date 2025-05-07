@@ -27,6 +27,27 @@ Steps taken:
 - Total number of complaints
 - Complaints per year and quarter
 - Trend analysis over time
+### Top Complaint Categories
+- Most common products with complaints
+- Frequent issues reported
+- Distribution by submission channel
+### Company Performance
+- Companies with highest complaint volumes
+- Timely response rates per company
+- Average resolution time by company
+### Geographic Analysis
+- States with highest complaint volumes
+- State-wise resolution efficiency
+### Dispute and Timeliness
+- Percentage of complaints marked as "Consumer disputed"
+- Correlation between disputed complaints and resolution time
+
+## Key Insights
+- Identification of systemic issues in specific products or companies
+- Observations about delays in resolution and their impact
+- Regional patterns in complaint types and volume
+
+## Dashboard Review
 
 ## Recommendations
 - Improve response times in underperforming companies
