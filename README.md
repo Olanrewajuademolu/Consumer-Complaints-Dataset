@@ -43,14 +43,18 @@ Steps taken:
 - Companies with highest complaint volumes
 - Timely response rates per company
 - Average resolution time by company
+![Screenshot 2025-05-08 110414](https://github.com/user-attachments/assets/dc3b99e9-b025-445a-8512-baad370c74c5)
 
 ### Geographic Analysis
 - States with highest complaint volumes
 - State-wise resolution efficiency
-  
+![Screenshot 2025-05-08 110703](https://github.com/user-attachments/assets/fc60b604-d0c5-405c-abda-4b7dde5bbca6)
+
 ### Dispute and Timeliness
 - Percentage of complaints marked as "Consumer disputed"
 - Correlation between disputed complaints and resolution time
+![Screenshot 2025-05-08 123324](https://github.com/user-attachments/assets/d7c5efcf-119e-4faa-925b-787866728775)
+![Screenshot 2025-05-08 135547](https://github.com/user-attachments/assets/cbb1b4e3-6fce-4520-9803-0adee1bb7a22)
 
 ## Key Insights
 - Identification of systemic issues in specific products or companies
