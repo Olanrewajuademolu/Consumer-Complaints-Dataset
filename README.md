@@ -54,6 +54,7 @@ Steps taken:
 - Percentage of complaints marked as "Consumer disputed"
 ![Screenshot 2025-05-08 123324](https://github.com/user-attachments/assets/d7c5efcf-119e-4faa-925b-787866728775)
 - Correlation between disputed complaints and resolution time
+
 The correlation value between disputed complaints and resolution time was -0.02463 which indicates virtually no linear relationship between the two variables. The slight negative sign (-0.02463) suggests that as resolution time increases, the chance of a dispute very slightly decreases.
 Whether a consumer disputes a complaint is not significantly affected by how many days it took to resolve the issue.
 ![Screenshot 2025-05-08 135547](https://github.com/user-attachments/assets/cbb1b4e3-6fce-4520-9803-0adee1bb7a22)
